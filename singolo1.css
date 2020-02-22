@@ -39,6 +39,7 @@ h1{
 }
 .header__navigation a:hover{
     color: #f06c64;
+    cursor: pointer;
 }
 .header__link{
     display: inline-block;
